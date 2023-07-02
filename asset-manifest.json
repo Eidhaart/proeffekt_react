@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/proeffekt_react/static/css/main.b8144b9c.css",
+    "main.js": "/proeffekt_react/static/js/main.d73b261f.js",
+    "static/js/787.44d76caa.chunk.js": "/proeffekt_react/static/js/787.44d76caa.chunk.js",
+    "static/media/home-icon.png": "/proeffekt_react/static/media/home-icon.0ac43610a077f4b45834.png",
+    "static/media/mail-icon.png": "/proeffekt_react/static/media/mail-icon.1253c14a42e537df63f2.png",
+    "index.html": "/proeffekt_react/index.html",
+    "main.b8144b9c.css.map": "/proeffekt_react/static/css/main.b8144b9c.css.map",
+    "main.d73b261f.js.map": "/proeffekt_react/static/js/main.d73b261f.js.map",
+    "787.44d76caa.chunk.js.map": "/proeffekt_react/static/js/787.44d76caa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8144b9c.css",
+    "static/js/main.d73b261f.js"
+  ]
+}
